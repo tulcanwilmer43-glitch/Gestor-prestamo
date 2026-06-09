@@ -130,3 +130,20 @@ Estas horas se consideran como práctica académica equivalente a 1 SMLV, según
 ## Observaciones
 
 Este documento corresponde a la primera entrega del curso de Algoritmia y Programación, enfocada en la planeación y estructuración del sistema antes de su desarrollo.
+---
+
+## Entrega Final — LoanManager Pro v1.2.0
+
+### Archivos del proyecto
+- src/funciones.py — Clases, validaciones y funciones
+- src/main.py — Menú principal del programa
+- doc/MANUAL_USUARIO.md — Manual de uso
+- doc/VERSIONADO.md — Historial de versiones
+
+### Cómo ejecutar
+python main.py
+
+### Tecnologías
+- Python 3.10+
+- Módulos: csv, os, datetime
+- Persistencia con archivos CSV
